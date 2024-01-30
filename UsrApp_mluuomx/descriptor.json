@@ -1,0 +1,11 @@
+﻿{
+  "Descriptor": {
+    "UId": "5b51477b-45cd-4c59-8287-024345913fd1",
+    "Name": "UsrApp_mluuomx",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(-62135575200000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_mluuomx.csproj",
+    "DependsOn": []
+  }
+}
